@@ -167,7 +167,7 @@ function App() {
           <div className="h-full flex flex-col items-center justify-center p-6 text-center">
             <Globe className="w-24 h-24 text-white mb-8" />
             <h1 className="text-6xl font-bold text-white mb-4">
-              Wikipedia
+              WikiScroll
             </h1>
             <p className="text-2xl text-white/90 mb-8">
               The Free Encyclopedia
