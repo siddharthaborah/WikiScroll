@@ -24,11 +24,13 @@ function Section({ article }: { article: WikiArticle }) {
               <Globe className="w-8 h-8 text-white mr-3" />
               <h1 className="text-2xl font-bold text-white">WikiScroll</h1>
             </div>
+            {/* 
             <input
               type="search"
               placeholder="Search Wikipedia..."
               className="w-64 px-4 py-2 rounded-full bg-black/30 border border-white/30 text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-white/50"
             />
+            */}
           </div>
 
           {/* Content */}
