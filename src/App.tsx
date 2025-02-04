@@ -170,7 +170,7 @@ function App() {
               WikiScroll
             </h1>
             <p className="text-2xl text-white/90 mb-8">
-              The Free Encyclopedia
+            Fuel Your Curiosity
             </p>
             <p className="text-xl text-white/80">
               Scroll down to explore random articles
