@@ -173,7 +173,7 @@ function App() {
             Fuel Your Curiosity
             </p>
             <p className="text-xl text-white/80">
-              Scroll down to explore random articles
+              Scroll down to explore random Wikipedia articles
             </p>
             <ChevronDown className="w-8 h-8 text-white mt-8 animate-bounce" />
           </div>
